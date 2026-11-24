@@ -4,20 +4,9 @@
 
 # One-Star Review of Something Essential
 
-An entry for the make.fun competition of the same name: a single deadpan
-one-star review of an everyday essential — sleep.
+Entry for the make.fun bounty: a one-star review of something essential
+(sleep), in a single line of 135 characters.
 
-## The review
+Running `main.py` writes the review to `/output/entry.txt`.
 
-> One star. Spent eight hours on it and woke up tired. The product does not work as advertised.
-
-## How it works
-
-Running `main.py` checks the review against the competition's length gate
-(1–160 characters, not whitespace only) and then writes it to
-`/output/entry.txt` exactly as it is — no trailing newline, no extra
-formatting. The output is 93 bytes.
-
-## License
-
-MIT — see `LICENSE`.
+Bounty: https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629
